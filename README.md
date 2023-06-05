@@ -2,7 +2,7 @@
 An example of 3D Boid (bird-oid object) flocking behavior using C# and the Unity Engine. 
 
 
-Example is using a random amount of hotdogs that are randomly placed using my personal RNG class.
+Example is using a random amount of hotdogs that are randomly placed using my personal RNG class and the boids are moving based on some generic classes I had lying around.
 
 
 <br>
